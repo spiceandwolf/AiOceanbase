@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmalloc_hook.a CMakeFiles/malloc_hook.dir/alloc/malloc_hook.cpp.o
+/usr/bin/ranlib libmalloc_hook.a
